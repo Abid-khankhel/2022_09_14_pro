@@ -1,0 +1,17 @@
+{
+"name":"israeel",
+"lname":"khankhel",
+"car":"null",
+"age":"23",
+"hobbies":["football","swimming"],
+"friend":{
+
+"name":"sharif",
+"age":"28",
+"city":"nangarhar"
+},
+
+"programmer":true
+
+
+}
